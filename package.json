@@ -1,7 +1,7 @@
 {
     "name": "@revelryengine/webrtc-signal",
     "description": "A simple WebRTC signal server and client abstraction",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "author": "Shannon Poole <shannon.m.poole@gmail.com>",
     "repository": "git@github.com:revelryengine/webrtc-signal.git",
     "type": "module",
