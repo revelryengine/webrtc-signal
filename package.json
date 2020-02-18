@@ -1,0 +1,18 @@
+{
+    "name": "@revelryengine/webrtc-signal",
+    "description": "A simple WebRTC signal server and client abstraction",
+    "version": "0.0.0",
+    "author": "Shannon Poole <shannon.m.poole@gmail.com>",
+    "repository": "git@github.com:revelryengine/webrtc-signal.git",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "pretest": "eslint .",
+        "precommit": "lint-staged"
+    },
+    "devDependencies": {
+        "eslint": "^6.8.0",
+        "husky": "^4.2.3",
+        "lint-staged": "^10.0.7"
+    }
+}

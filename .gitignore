@@ -1,0 +1,8 @@
+npm-debug.log
+
+.transpiled/
+.nyc_output/
+.esm-cache/
+coverage/
+node_modules/
+docs/
